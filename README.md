@@ -22,9 +22,9 @@ VM](http://www.cloudera.com/content/www/en-us/downloads.html).
 
    To build the flume-sources JAR, from the root of the git repository:
 
-         $ cd flume-sources
-         $ mvn package
-         $ cd ..
+        $ cd flume-sources
+        $ mvn package
+        $ cd ..
 
    This will generate a file called `flume-sources-1.0-SNAPSHOT.jar` in the
    `target` directory.
@@ -69,9 +69,9 @@ VM](http://www.cloudera.com/content/www/en-us/downloads.html).
 
    To build the hive-serdes JAR, from the root of the git repository:
 
-          $ cd hive-serdes
-          $ mvn package
-          $ cd ..
+        $ cd hive-serdes
+        $ mvn package
+        $ cd ..
 
    This will generate a file called `hive-serdes-1.0-SNAPSHOT.jar` in the
    `target` directory.
